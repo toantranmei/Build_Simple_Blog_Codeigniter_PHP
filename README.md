@@ -25,4 +25,11 @@ Step 2: Install 2 Package.
 + Codeigniter Unities
 
 4. Các bước khởi tạo dự án:
-
+- Tạo Folder chứa dự án:
++ Window: Tạo thư mục tên dự án trong C:\Xampp\htdocs\$tenduan
++ Mac: Tạo thưc mục tên dự án trong Applications\Mamp\htdocs\$tenduan
+- Khởi tạo server:
++ Thường thì các phần mềm sẽ chuyển sang chorme với địa chỉ: localhost:3333/dashboards < Chú ý: 3333 là port do bạn thiết lập>
++ Còn không bạn có thể lên chorme và truy cập địa chỉ bên trên như bình thường.
+- Chạy dự án:
+Bạn truy cập localhost:3333/$tenduan < $tenduan chính là tên thư mục của bạn >
