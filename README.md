@@ -8,17 +8,21 @@ Hiện nay có khá nhiều Frameworks được xây dựng từ PHP như Zend, 
 
 2. Cách cài đặt?
 
+
 Step 1: Truy cập trang chủ Codeigniter để download.
 Step 2: Tham khảo video.
 
+
 3. Các Package cần thiết cho Sublime Text khi code Codeigniter
 
-Step 1: 
-  + Window: Ctrl + Shift + P, sau đó nhập Install Package.
-  + Mac: Command + Shift + P, sau đó nhập Install Package.
+
+Step 1:
++ Window: Ctrl + Shift + P, sau đó nhập Install Package.
++ Mac: Command + Shift + P, sau đó nhập Install Package.
+
 Step 2: Install 2 Package.
-  + Codeigniter Snippets
-  + Codeigniter Unities
++ Codeigniter Snippets
++ Codeigniter Unities
 
 4. Các bước khởi tạo dự án:
 
