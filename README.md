@@ -12,10 +12,11 @@ Step 1: Truy cập trang chủ Codeigniter để download.
 Step 2: Tham khảo video.
 
 3. Các Package cần thiết cho Sublime Text khi code Codeigniter
+
 Step 1: 
-  + Window: Ctrl + Shift + P, sau đó nhập Install Package
-  + Mac: Command + Shift + P, sau đó nhập Install Package
-Step 2: Install 2 Package
+  + Window: Ctrl + Shift + P, sau đó nhập Install Package.
+  + Mac: Command + Shift + P, sau đó nhập Install Package.
+Step 2: Install 2 Package.
   + Codeigniter Snippets
   + Codeigniter Unities
 
